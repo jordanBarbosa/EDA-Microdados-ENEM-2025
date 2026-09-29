@@ -1,0 +1,10 @@
+*.pdf
+*.docx
+*.csv
+*.ods
+*.xlsx
+*.R
+*.sas
+*.sps
+venv/
+.ipynb_checkpoints/
