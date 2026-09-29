@@ -1,1 +1,2 @@
 # EDA Microdados ENEM 2025
+O objetivo desse projeto é aplicar os conhecimento adquiridos sobre análise exploratória de dados (EDA) utilizados os Microdados do ENEM de 2025. Os dados foram obtidos através da página do ENEM no site do INEPE e podem ser baixados [aqui](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem).
