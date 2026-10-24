@@ -15,10 +15,10 @@ O conjunto de Microdados do ENEM é composto por três arquivos, são eles:
 
 Cada base de dados possui um dicionário que descreve com detalhes os campos existentes.
 ### Levantamentos iniciais
-Devido a falta de familiaridade com os dados, primeiro foi necessário entender melhor sua composição, ou seja, compreender com mais detalhes os dados contidos dentro de cada arquivo, se os arquivos relacionam entre si de forma que possibilite o cruzamento entre as bases, além de investigar a necessidade de realizar algum tipo de limpeza ou tratamento nos dados existentes.
+Devido a falta de familiaridade com os dados, primeiro foi necessário entender melhor sua composição, ou seja, compreender com mais detalhes os dados contidos dentro de cada arquivo, se os arquivos se relacionam entre si de forma que possibilite o cruzamento entre as bases, além de investigar a necessidade de realizar algum tipo de limpeza ou tratamento nos dados existentes.
 
 Com isso em mente e com o auxílio do dicionário de dados foi realizada uma análise individual de cada arquivo.
 
-##### Participantes
-##### Resultados
-##### Itens Prova
+#### Participantes
+#### Resultados
+#### Itens Prova
