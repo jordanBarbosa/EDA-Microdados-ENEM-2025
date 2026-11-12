@@ -17,8 +17,4 @@ Cada base de dados possui um dicionário que descreve com detalhes os campos exi
 ### Levantamentos iniciais
 Devido a falta de familiaridade com os dados, primeiro foi necessário entender melhor sua composição, ou seja, compreender com mais detalhes os dados contidos dentro de cada arquivo, se os arquivos se relacionam entre si de forma que possibilite o cruzamento entre as bases, além de investigar a necessidade de realizar algum tipo de limpeza ou tratamento nos dados existentes.
 
-Com isso em mente e com o auxílio do dicionário de dados foi realizada uma análise individual de cada arquivo.
-
-#### Participantes
-#### Resultados
-#### Itens Prova
+Com isso em mente e com o auxílio do dicionário de dados foi realizada uma análise individual de cada arquivo. Felizmente em todos os arquivos os dados se apresentaram muito consistentes e não foi identificado a necessidade de realizar nenhum tipo de limpeza, nem mesmo duplicidades. Por outro lado, apesar das informações terem relação entre sim, o cruzamento entre as bases de participantes e resultados não é possível, mesmo existindo um campo de mesmo nome entre elas seus valores não são correspondentes.
